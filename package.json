@@ -1,0 +1,23 @@
+{
+    "name": "e-commerce",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "server": "json-server --watch db.json"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sertocr/Challenge-E-commerce.git"
+    },        
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://sertocr/Challenge-E-commerce/issues"
+    },
+    "homepage": "https://github.com/sertocr/Challenge-E-commerce#readme",
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
